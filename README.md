@@ -1,6 +1,6 @@
 # 1000ptcoauthor
 A draft 1000 point plan for coauthorship of astronomy papers, written in an attempt to set some sort of guide on who should be a coauthor on an academic paper in astronomy/planetary science.
-Draft plan is [available as markup](The 1000 point plan.md) in this repository and is also copied below:.
+Draft plan is available as a Markdown file in this repository and is also copied below:
 
 ----------
 1000 point plan for astronomy paper coauthorship
