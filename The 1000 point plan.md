@@ -5,7 +5,8 @@ Warning: this plan was written by an observational astronomer and thus has the b
 
 
 ----------
-***1000 point research plan for paper coauthorship: > 125 points = coauthor, < 125 points = acknowledgement ***
+***1000 point research plan for paper coauthorship: > 125 points = coauthor, < 125 points = acknowledgement***
+
 *points are tallied for each person individually *
 
 
@@ -50,5 +51,3 @@ Warning: this plan was written by an observational astronomer and thus has the b
 
 *Coauthors who lack the requisite points for coauthorship prior to the paper writing stage might not be considered as authors as their contribution in earlier stages deemed uncritical to the work. If co-author has < 80 points prior to the paper writing stage this represents < 10% contribution to the work and they must justify their authorship to the PI.*
 	
-
-> Written with [StackEdit](https://stackedit.io/).
