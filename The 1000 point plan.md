@@ -14,17 +14,17 @@ Warning: this plan was written by an observational astronomer and thus has the b
  
  Point breakdown for the proposal is 50% (100 points) text, 50% (100 points) figures and tables.
 
-	Text points: to be split by section/subsection. For example: 2 sections (1 Science, 1 Technical) with 3 subsections each = 6 subsections. Each subsection worth 100/6 = 16.67 points. Points only awarded if > 60% of proposal text in section contributed by individual.
+ Text points: to be split by section/subsection. For example: 2 sections (1 Science, 1 Technical) with 3 subsections each = 6 subsections. Each subsection worth 100/6 = 16.67 points. Points only awarded if > 60% of proposal text in section contributed by individual.
 
-	Figures and tables points: Figures and tables are key for grabbing skim readers and for telling a story, hence the equal point value relative to the text. Points awarded are proportional to the number of figrues/tables and go to the figure/table creator.
+ Figures and tables points: Figures and tables are key for grabbing skim readers and for telling a story, hence the equal point value relative to the text. Points awarded are proportional to the number of figrues/tables and go to the figure/table creator.
 
-	For individuals who neither author significant portions nor create tables/figures: 
-	Generic comments on proposal prior to submission : 10 points (total)
-	Specific edits to figure captions : 10 points per figure (requires >= 1 sentence for full 10 point reward. No reward < 3 words, 5 points for minor sentence reword)
+ For individuals who neither author significant portions nor create tables/figures: 
+ Generic comments on proposal prior to submission : 10 points (total)
+ Specific edits to figure captions : 10 points per figure (requires >= 1 sentence for full 10 point reward. No reward < 3 words, 5 points for minor sentence reword)
 
-	*In cases of ground based projects with NASA/NSF funding:*
+ *In cases of ground based projects with NASA/NSF funding:*
 
-	120 points to be assigned to work from funding proposal (because money makes the project run), the other 80 points are split amongst all the observing proposal. Fractional split of 50% of points to text, 50% to figures & tables remains for the funding proposals, generic comments and edits to figure captions reduce to 6 points.
+ 120 points to be assigned to work from funding proposal (because money makes the project run), the other 80 points are split amongst all the observing proposal. Fractional split of 50% of points to text, 50% to figures & tables remains for the funding proposals, generic comments and edits to figure captions reduce to 6 points.
 
  - **Component 2: Observing (200 points)**
  
