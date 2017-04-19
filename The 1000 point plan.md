@@ -1,7 +1,7 @@
 1000 point plan for astronomy paper coauthorship
 =======
 
-Warning: this plan was written by an observational astronomer and thus has the biases and leanings of observational projects the author is used to. This also will likely not be a good plan for large surveys where coauthorship complex, but it may be a good starting point
+Warning: this plan was written by an observational astronomer and thus has the biases and leanings of observational projects the author is used to. This also will likely not be a good plan for large surveys where coauthorship complex, but it may be a good starting point.
 
 
 ----------
